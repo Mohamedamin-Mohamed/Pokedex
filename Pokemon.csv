@@ -1,0 +1,803 @@
+pokedex_number,name,classfication,type1,type2
+1,Bulbasaur,Seed Pokémon,grass,poison
+2,Ivysaur,Seed Pokémon,grass,poison
+3,Venusaur,Seed Pokémon,grass,poison
+4,Charmander,Lizard Pokémon,fire,none
+5,Charmeleon,Flame Pokémon,fire,none
+6,Charizard,Flame Pokémon,fire,flying
+7,Squirtle,Tiny Turtle Pokémon,water,none
+8,Wartortle,Turtle Pokémon,water,none
+9,Blastoise,Shellfish Pokémon,water,none
+10,Caterpie,Worm Pokémon,bug,none
+11,Metapod,Cocoon Pokémon,bug,none
+12,Butterfree,Butterfly Pokémon,bug,flying
+13,Weedle,Hairy Pokémon,bug,poison
+14,Kakuna,Cocoon Pokémon,bug,poison
+15,Beedrill,Poison Bee Pokémon,bug,poison
+16,Pidgey,Tiny Bird Pokémon,normal,flying
+17,Pidgeotto,Bird Pokémon,normal,flying
+18,Pidgeot,Bird Pokémon,normal,flying
+19,Rattata,Mouse Pokémon,normal,dark
+20,Raticate,Mouse Pokémon,normal,dark
+21,Spearow,Tiny Bird Pokémon,normal,flying
+22,Fearow,Beak Pokémon,normal,flying
+23,Ekans,Snake Pokémon,poison,none
+24,Arbok,Cobra Pokémon,poison,none
+25,Pikachu,Mouse Pokémon,electric,none
+26,Raichu,Mouse Pokémon,electric,electric
+27,Sandshrew,Mouse Pokémon,ground,ice
+28,Sandslash,Mouse Pokémon,ground,ice
+29,Nidoran♀,Poison Pin Pokémon,poison,none
+30,Nidorina,Poison Pin Pokémon,poison,none
+31,Nidoqueen,Drill Pokémon,poison,ground
+32,Nidoran♂,Poison Pin Pokémon,poison,none
+33,Nidorino,Poison Pin Pokémon,poison,none
+34,Nidoking,Drill Pokémon,poison,ground
+35,Clefairy,Fairy Pokémon,fairy,none
+36,Clefable,Fairy Pokémon,fairy,none
+37,Vulpix,Fox Pokémon,fire,ice
+38,Ninetales,Fox Pokémon,fire,ice
+39,Jigglypuff,Balloon Pokémon,normal,fairy
+40,Wigglytuff,Balloon Pokémon,normal,fairy
+41,Zubat,Bat Pokémon,poison,flying
+42,Golbat,Bat Pokémon,poison,flying
+43,Oddish,Weed Pokémon,grass,poison
+44,Gloom,Weed Pokémon,grass,poison
+45,Vileplume,Flower Pokémon,grass,poison
+46,Paras,Mushroom Pokémon,bug,grass
+47,Parasect,Mushroom Pokémon,bug,grass
+48,Venonat,Insect Pokémon,bug,poison
+49,Venomoth,Poison Moth Pokémon,bug,poison
+50,Diglett,Mole Pokémon,ground,ground
+51,Dugtrio,Mole Pokémon,ground,ground
+52,Meowth,Scratch Cat Pokémon,normal,dark
+53,Persian,Classy Cat Pokémon,normal,dark
+54,Psyduck,Duck Pokémon,water,none
+55,Golduck,Duck Pokémon,water,none
+56,Mankey,Pig Monkey Pokémon,fighting,none
+57,Primeape,Pig Monkey Pokémon,fighting,none
+58,Growlithe,Puppy Pokémon,fire,none
+59,Arcanine,Legendary Pokémon,fire,none
+60,Poliwag,Tadpole Pokémon,water,none
+61,Poliwhirl,Tadpole Pokémon,water,none
+62,Poliwrath,Tadpole Pokémon,water,fighting
+63,Abra,Psi Pokémon,psychic,none
+64,Kadabra,Psi Pokémon,psychic,none
+65,Alakazam,Psi Pokémon,psychic,none
+66,Machop,Superpower Pokémon,fighting,none
+67,Machoke,Superpower Pokémon,fighting,none
+68,Machamp,Superpower Pokémon,fighting,none
+69,Bellsprout,Flower Pokémon,grass,poison
+70,Weepinbell,Flycatcher Pokémon,grass,poison
+71,Victreebel,Flycatcher Pokémon,grass,poison
+72,Tentacool,Jellyfish Pokémon,water,poison
+73,Tentacruel,Jellyfish Pokémon,water,poison
+74,Geodude,Rock Pokémon,rock,ground
+75,Graveler,Rock Pokémon,rock,ground
+76,Golem,Megaton Pokémon,rock,ground
+77,Ponyta,Fire Horse Pokémon,fire,none
+78,Rapidash,Fire Horse Pokémon,fire,none
+79,Slowpoke,Dopey Pokémon,water,psychic
+80,Slowbro,Hermit Crab Pokémon,water,psychic
+81,Magnemite,Magnet Pokémon,electric,steel
+82,Magneton,Magnet Pokémon,electric,steel
+83,Farfetch'd,Wild Duck Pokémon,normal,flying
+84,Doduo,Twin Bird Pokémon,normal,flying
+85,Dodrio,Triple Bird Pokémon,normal,flying
+86,Seel,Sea Lion Pokémon,water,none
+87,Dewgong,Sea Lion Pokémon,water,ice
+88,Grimer,Sludge Pokémon,poison,poison
+89,Muk,Sludge Pokémon,poison,poison
+90,Shellder,Bivalve Pokémon,water,none
+91,Cloyster,Bivalve Pokémon,water,ice
+92,Gastly,Gas Pokémon,ghost,poison
+93,Haunter,Gas Pokémon,ghost,poison
+94,Gengar,Shadow Pokémon,ghost,poison
+95,Onix,Rock Snake Pokémon,rock,ground
+96,Drowzee,Hypnosis Pokémon,psychic,none
+97,Hypno,Hypnosis Pokémon,psychic,none
+98,Krabby,River Crab Pokémon,water,none
+99,Kingler,Pincer Pokémon,water,none
+100,Voltorb,Ball Pokémon,electric,none
+101,Electrode,Ball Pokémon,electric,none
+102,Exeggcute,Egg Pokémon,grass,psychic
+103,Exeggutor,Coconut Pokémon,grass,psychic
+104,Cubone,Lonely Pokémon,ground,none
+105,Marowak,Bone Keeper Pokémon,ground,fire
+106,Hitmonlee,Kicking Pokémon,fighting,none
+107,Hitmonchan,Punching Pokémon,fighting,none
+108,Lickitung,Licking Pokémon,normal,none
+109,Koffing,Poison Gas Pokémon,poison,none
+110,Weezing,Poison Gas Pokémon,poison,none
+111,Rhyhorn,Spikes Pokémon,ground,rock
+112,Rhydon,Drill Pokémon,ground,rock
+113,Chansey,Egg Pokémon,normal,none
+114,Tangela,Vine Pokémon,grass,none
+115,Kangaskhan,Parent Pokémon,normal,none
+116,Horsea,Dragon Pokémon,water,none
+117,Seadra,Dragon Pokémon,water,none
+118,Goldeen,Goldfish Pokémon,water,none
+119,Seaking,Goldfish Pokémon,water,none
+120,Staryu,Starshape Pokémon,water,none
+121,Starmie,Mysterious Pokémon,water,psychic
+122,Mr. Mime,Barrier Pokémon,psychic,fairy
+123,Scyther,Mantis Pokémon,bug,flying
+124,Jynx,Humanshape Pokémon,ice,psychic
+125,Electabuzz,Electric Pokémon,electric,none
+126,Magmar,Spitfire Pokémon,fire,none
+127,Pinsir,Stagbeetle Pokémon,bug,none
+128,Tauros,Wild Bull Pokémon,normal,none
+129,Magikarp,Fish Pokémon,water,none
+130,Gyarados,Atrocious Pokémon,water,flying
+131,Lapras,Transport Pokémon,water,ice
+132,Ditto,Transform Pokémon,normal,none
+133,Eevee,Evolution Pokémon,normal,none
+134,Vaporeon,Bubble Jet Pokémon,water,none
+135,Jolteon,Lightning Pokémon,electric,none
+136,Flareon,Flame Pokémon,fire,none
+137,Porygon,Virtual Pokémon,normal,none
+138,Omanyte,Spiral Pokémon,rock,water
+139,Omastar,Spiral Pokémon,rock,water
+140,Kabuto,Shellfish Pokémon,rock,water
+141,Kabutops,Shellfish Pokémon,rock,water
+142,Aerodactyl,Fossil Pokémon,rock,flying
+143,Snorlax,Sleeping Pokémon,normal,none
+144,Articuno,Freeze Pokémon,ice,flying
+145,Zapdos,Electric Pokémon,electric,flying
+146,Moltres,Flame Pokémon,fire,flying
+147,Dratini,Dragon Pokémon,dragon,none
+148,Dragonair,Dragon Pokémon,dragon,none
+149,Dragonite,Dragon Pokémon,dragon,flying
+150,Mewtwo,Genetic Pokémon,psychic,none
+151,Mew,New Species Pokémon,psychic,none
+152,Chikorita,Leaf Pokémon,grass,none
+153,Bayleef,Leaf Pokémon,grass,none
+154,Meganium,Herb Pokémon,grass,none
+155,Cyndaquil,Fire Mouse Pokémon,fire,none
+156,Quilava,Volcano Pokémon,fire,none
+157,Typhlosion,Volcano Pokémon,fire,none
+158,Totodile,Big Jaw Pokémon,water,none
+159,Croconaw,Big Jaw Pokémon,water,none
+160,Feraligatr,Big Jaw Pokémon,water,none
+161,Sentret,Scout Pokémon,normal,none
+162,Furret,Long Body Pokémon,normal,none
+163,Hoothoot,Owl Pokémon,normal,flying
+164,Noctowl,Owl Pokémon,normal,flying
+165,Ledyba,Five Star Pokémon,bug,flying
+166,Ledian,Five Star Pokémon,bug,flying
+167,Spinarak,String Spit Pokémon,bug,poison
+168,Ariados,Long Leg Pokémon,bug,poison
+169,Crobat,Bat Pokémon,poison,flying
+170,Chinchou,Angler Pokémon,water,electric
+171,Lanturn,Light Pokémon,water,electric
+172,Pichu,Tiny Mouse Pokémon,electric,none
+173,Cleffa,Star Shape Pokémon,fairy,none
+174,Igglybuff,Balloon Pokémon,normal,fairy
+175,Togepi,Spike Ball Pokémon,fairy,none
+176,Togetic,Happiness Pokémon,fairy,flying
+177,Natu,Little Bird Pokémon,psychic,flying
+178,Xatu,Mystic Pokémon,psychic,flying
+179,Mareep,Wool Pokémon,electric,none
+180,Flaaffy,Wool Pokémon,electric,none
+181,Ampharos,Light Pokémon,electric,none
+182,Bellossom,Flower Pokémon,grass,none
+183,Marill,Aquamouse Pokémon,water,fairy
+184,Azumarill,Aquarabbit Pokémon,water,fairy
+185,Sudowoodo,Imitation Pokémon,rock,none
+186,Politoed,Frog Pokémon,water,none
+187,Hoppip,Cottonweed Pokémon,grass,flying
+188,Skiploom,Cottonweed Pokémon,grass,flying
+189,Jumpluff,Cottonweed Pokémon,grass,flying
+190,Aipom,Long Tail Pokémon,normal,none
+191,Sunkern,Seed Pokémon,grass,none
+192,Sunflora,Sun Pokémon,grass,none
+193,Yanma,Clear Wing Pokémon,bug,flying
+194,Wooper,Water Fish Pokémon,water,ground
+195,Quagsire,Water Fish Pokémon,water,ground
+196,Espeon,Sun Pokémon,psychic,none
+197,Umbreon,Moonlight Pokémon,dark,none
+198,Murkrow,Darkness Pokémon,dark,flying
+199,Slowking,Royal Pokémon,water,psychic
+200,Misdreavus,Screech Pokémon,ghost,none
+201,Unown,Symbol Pokémon,psychic,none
+202,Wobbuffet,Patient Pokémon,psychic,none
+203,Girafarig,Long Neck Pokémon,normal,psychic
+204,Pineco,Bagworm Pokémon,bug,none
+205,Forretress,Bagworm Pokémon,bug,steel
+206,Dunsparce,Land Snake Pokémon,normal,none
+207,Gligar,Flyscorpion Pokémon,ground,flying
+208,Steelix,Iron Snake Pokémon,steel,ground
+209,Snubbull,Fairy Pokémon,fairy,none
+210,Granbull,Fairy Pokémon,fairy,none
+211,Qwilfish,Balloon Pokémon,water,poison
+212,Scizor,Pincer Pokémon,bug,steel
+213,Shuckle,Mold Pokémon,bug,rock
+214,Heracross,Singlehorn Pokémon,bug,fighting
+215,Sneasel,Sharp Claw Pokémon,dark,ice
+216,Teddiursa,Little Bear Pokémon,normal,none
+217,Ursaring,Hibernator Pokémon,normal,none
+218,Slugma,Lava Pokémon,fire,none
+219,Magcargo,Lava Pokémon,fire,rock
+220,Swinub,Pig Pokémon,ice,ground
+221,Piloswine,Swine Pokémon,ice,ground
+222,Corsola,Coral Pokémon,water,rock
+223,Remoraid,Jet Pokémon,water,none
+224,Octillery,Jet Pokémon,water,none
+225,Delibird,Delivery Pokémon,ice,flying
+226,Mantine,Kite Pokémon,water,flying
+227,Skarmory,Armor Bird Pokémon,steel,flying
+228,Houndour,Dark Pokémon,dark,fire
+229,Houndoom,Dark Pokémon,dark,fire
+230,Kingdra,Dragon Pokémon,water,dragon
+231,Phanpy,Long Nose Pokémon,ground,none
+232,Donphan,Armor Pokémon,ground,none
+233,Porygon2,Virtual Pokémon,normal,none
+234,Stantler,Big Horn Pokémon,normal,none
+235,Smeargle,Painter Pokémon,normal,none
+236,Tyrogue,Scuffle Pokémon,fighting,none
+237,Hitmontop,Handstand Pokémon,fighting,none
+238,Smoochum,Kiss Pokémon,ice,psychic
+239,Elekid,Electric Pokémon,electric,none
+240,Magby,Live Coal Pokémon,fire,none
+241,Miltank,Milk Cow Pokémon,normal,none
+242,Blissey,Happiness Pokémon,normal,none
+243,Raikou,Thunder Pokémon,electric,none
+244,Entei,Volcano Pokémon,fire,none
+245,Suicune,Aurora Pokémon,water,none
+246,Larvitar,Rock Skin Pokémon,rock,ground
+247,Pupitar,Hard Shell Pokémon,rock,ground
+248,Tyranitar,Armor Pokémon,rock,dark
+249,Lugia,Diving Pokémon,psychic,flying
+250,Ho-Oh,Rainbow Pokémon,fire,flying
+251,Celebi,Time Travel Pokémon,psychic,grass
+252,Treecko,Wood Gecko Pokémon,grass,none
+253,Grovyle,Wood Gecko Pokémon,grass,none
+254,Sceptile,Forest Pokémon,grass,none
+255,Torchic,Chick Pokémon,fire,none
+256,Combusken,Young Fowl Pokémon,fire,fighting
+257,Blaziken,Blaze Pokémon,fire,fighting
+258,Mudkip,Mud Fish Pokémon,water,none
+259,Marshtomp,Mud Fish Pokémon,water,ground
+260,Swampert,Mud Fish Pokémon,water,ground
+261,Poochyena,Bite Pokémon,dark,none
+262,Mightyena,Bite Pokémon,dark,none
+263,Zigzagoon,Tiny Racoon Pokémon,normal,none
+264,Linoone,Rush Pokémon,normal,none
+265,Wurmple,Worm Pokémon,bug,none
+266,Silcoon,Cocoon Pokémon,bug,none
+267,Beautifly,Butterfly Pokémon,bug,flying
+268,Cascoon,Cocoon Pokémon,bug,none
+269,Dustox,Poison Moth Pokémon,bug,poison
+270,Lotad,Water Weed Pokémon,water,grass
+271,Lombre,Jolly Pokémon,water,grass
+272,Ludicolo,Carefree Pokémon,water,grass
+273,Seedot,Acorn Pokémon,grass,none
+274,Nuzleaf,Wily Pokémon,grass,dark
+275,Shiftry,Wickid Pokémon,grass,dark
+276,Taillow,TinySwallow Pokémon,normal,flying
+277,Swellow,Swallow Pokémon,normal,flying
+278,Wingull,Seagull Pokémon,water,flying
+279,Pelipper,Water Bird Pokémon,water,flying
+280,Ralts,Feeling Pokémon,psychic,fairy
+281,Kirlia,Emotion Pokémon,psychic,fairy
+282,Gardevoir,Embrace Pokémon,psychic,fairy
+283,Surskit,Pond Skater Pokémon,bug,water
+284,Masquerain,Eyeball Pokémon,bug,flying
+285,Shroomish,Mushroom Pokémon,grass,none
+286,Breloom,Mushroom Pokémon,grass,fighting
+287,Slakoth,Slacker Pokémon,normal,none
+288,Vigoroth,Wild Monkey Pokémon,normal,none
+289,Slaking,Lazy Pokémon,normal,none
+290,Nincada,Trainee Pokémon,bug,ground
+291,Ninjask,Ninja Pokémon,bug,flying
+292,Shedinja,Shed Pokémon,bug,ghost
+293,Whismur,Whisper Pokémon,normal,none
+294,Loudred,Big Voice Pokémon,normal,none
+295,Exploud,Loud Noise Pokémon,normal,none
+296,Makuhita,Guts Pokémon,fighting,none
+297,Hariyama,Arm Thrust Pokémon,fighting,none
+298,Azurill,Polka Dot Pokémon,normal,fairy
+299,Nosepass,Compass Pokémon,rock,none
+300,Skitty,Kitten Pokémon,normal,none
+301,Delcatty,Prim Pokémon,normal,none
+302,Sableye,Darkness Pokémon,dark,ghost
+303,Mawile,Deceiver Pokémon,steel,fairy
+304,Aron,Iron Armor Pokémon,steel,rock
+305,Lairon,Iron Armor Pokémon,steel,rock
+306,Aggron,Iron Armor Pokémon,steel,rock
+307,Meditite,Meditate Pokémon,fighting,psychic
+308,Medicham,Meditate Pokémon,fighting,psychic
+309,Electrike,Lightning Pokémon,electric,none
+310,Manectric,Discharge Pokémon,electric,none
+311,Plusle,Cheering Pokémon,electric,none
+312,Minun,Cheering Pokémon,electric,none
+313,Volbeat,Firefly Pokémon,bug,none
+314,Illumise,Firefly Pokémon,bug,none
+315,Roselia,Thorn Pokémon,grass,poison
+316,Gulpin,Stomach Pokémon,poison,none
+317,Swalot,Poison Bag Pokémon,poison,none
+318,Carvanha,Savage Pokémon,water,dark
+319,Sharpedo,Brutal Pokémon,water,dark
+320,Wailmer,Ball Whale Pokémon,water,none
+321,Wailord,Float Whale Pokémon,water,none
+322,Numel,Numb Pokémon,fire,ground
+323,Camerupt,Eruption Pokémon,fire,ground
+324,Torkoal,Coal Pokémon,fire,none
+325,Spoink,Bounce Pokémon,psychic,none
+326,Grumpig,Manipulate Pokémon,psychic,none
+327,Spinda,Spot Panda Pokémon,normal,none
+328,Trapinch,Ant Pit Pokémon,ground,none
+329,Vibrava,Vibration Pokémon,ground,dragon
+330,Flygon,Mystic Pokémon,ground,dragon
+331,Cacnea,Cactus Pokémon,grass,none
+332,Cacturne,Scarecrow Pokémon,grass,dark
+333,Swablu,Cotton Bird Pokémon,normal,flying
+334,Altaria,Humming Pokémon,dragon,flying
+335,Zangoose,Cat Ferret Pokémon,normal,none
+336,Seviper,Fang Snake Pokémon,poison,none
+337,Lunatone,Meteorite Pokémon,rock,psychic
+338,Solrock,Meteorite Pokémon,rock,psychic
+339,Barboach,Whiskers Pokémon,water,ground
+340,Whiscash,Whiskers Pokémon,water,ground
+341,Corphish,Ruffian Pokémon,water,none
+342,Crawdaunt,Rogue Pokémon,water,dark
+343,Baltoy,Clay Doll Pokémon,ground,psychic
+344,Claydol,Clay Doll Pokémon,ground,psychic
+345,Lileep,Sea Lily Pokémon,rock,grass
+346,Cradily,Barnacle Pokémon,rock,grass
+347,Anorith,Old Shrimp Pokémon,rock,bug
+348,Armaldo,Plate Pokémon,rock,bug
+349,Feebas,Fish Pokémon,water,none
+350,Milotic,Tender Pokémon,water,none
+351,Castform,Weather Pokémon,normal,none
+352,Kecleon,Color Swap Pokémon,normal,none
+353,Shuppet,Puppet Pokémon,ghost,none
+354,Banette,Marionette Pokémon,ghost,none
+355,Duskull,Requiem Pokémon,ghost,none
+356,Dusclops,Beckon Pokémon,ghost,none
+357,Tropius,Fruit Pokémon,grass,flying
+358,Chimecho,Wind Chime Pokémon,psychic,none
+359,Absol,Disaster Pokémon,dark,none
+360,Wynaut,Bright Pokémon,psychic,none
+361,Snorunt,Snow Hat Pokémon,ice,none
+362,Glalie,Face Pokémon,ice,none
+363,Spheal,Clap Pokémon,ice,water
+364,Sealeo,Ball Roll Pokémon,ice,water
+365,Walrein,Ice Break Pokémon,ice,water
+366,Clamperl,Bivalve Pokémon,water,none
+367,Huntail,Deep Sea Pokémon,water,none
+368,Gorebyss,South Sea Pokémon,water,none
+369,Relicanth,Longevity Pokémon,water,rock
+370,Luvdisc,Rendezvous Pokémon,water,none
+371,Bagon,Rock Head Pokémon,dragon,none
+372,Shelgon,Endurance Pokémon,dragon,none
+373,Salamence,Dragon Pokémon,dragon,flying
+374,Beldum,Iron Ball Pokémon,steel,psychic
+375,Metang,Iron Claw Pokémon,steel,psychic
+376,Metagross,Iron Leg Pokémon,steel,psychic
+377,Regirock,Rock Peak Pokémon,rock,none
+378,Regice,Iceberg Pokémon,ice,none
+379,Registeel,Iron Pokémon,steel,none
+380,Latias,Eon Pokémon,dragon,psychic
+381,Latios,Eon Pokémon,dragon,psychic
+382,Kyogre,Sea Basin Pokémon,water,none
+383,Groudon,Continent Pokémon,ground,none
+384,Rayquaza,Sky High Pokémon,dragon,flying
+385,Jirachi,Wish Pokémon,steel,psychic
+386,Deoxys,DNA Pokémon,psychic,none
+387,Turtwig,Tiny Leaf Pokémon,grass,none
+388,Grotle,Grove Pokémon,grass,none
+389,Torterra,Continent Pokémon,grass,ground
+390,Chimchar,Chimp Pokémon,fire,none
+391,Monferno,Playful Pokémon,fire,fighting
+392,Infernape,Flame Pokémon,fire,fighting
+393,Piplup,Penguin Pokémon,water,none
+394,Prinplup,Penguin Pokémon,water,none
+395,Empoleon,Emperor Pokémon,water,steel
+396,Starly,Starling Pokémon,normal,flying
+397,Staravia,Starling Pokémon,normal,flying
+398,Staraptor,Predator Pokémon,normal,flying
+399,Bidoof,Plump Mouse Pokémon,normal,none
+400,Bibarel,Beaver Pokémon,normal,water
+401,Kricketot,Cricket Pokémon,bug,none
+402,Kricketune,Cricket Pokémon,bug,none
+403,Shinx,Flash Pokémon,electric,none
+404,Luxio,Spark Pokémon,electric,none
+405,Luxray,Gleam Eyes Pokémon,electric,none
+406,Budew,Bud Pokémon,grass,poison
+407,Roserade,Bouquet Pokémon,grass,poison
+408,Cranidos,Head Butt Pokémon,rock,none
+409,Rampardos,Head Butt Pokémon,rock,none
+410,Shieldon,Shield Pokémon,rock,steel
+411,Bastiodon,Shield Pokémon,rock,steel
+412,Burmy,Bagworm Pokémon,bug,none
+413,Wormadam,Bagworm Pokémon,bug,grass
+414,Mothim,Moth Pokémon,bug,flying
+415,Combee,Tiny Bee Pokémon,bug,flying
+416,Vespiquen,Beehive Pokémon,bug,flying
+417,Pachirisu,EleSquirrel Pokémon,electric,none
+418,Buizel,Sea Weasel Pokémon,water,none
+419,Floatzel,Sea Weasel Pokémon,water,none
+420,Cherubi,Cherry Pokémon,grass,none
+421,Cherrim,Blossom Pokémon,grass,none
+422,Shellos,Sea Slug Pokémon,water,none
+423,Gastrodon,Sea Slug Pokémon,water,ground
+424,Ambipom,Long Tail Pokémon,normal,none
+425,Drifloon,Balloon Pokémon,ghost,flying
+426,Drifblim,Blimp Pokémon,ghost,flying
+427,Buneary,Rabbit Pokémon,normal,none
+428,Lopunny,Rabbit Pokémon,normal,none
+429,Mismagius,Magical Pokémon,ghost,none
+430,Honchkrow,Big Boss Pokémon,dark,flying
+431,Glameow,Catty Pokémon,normal,none
+432,Purugly,Tiger Cat Pokémon,normal,none
+433,Chingling,Bell Pokémon,psychic,none
+434,Stunky,Skunk Pokémon,poison,dark
+435,Skuntank,Skunk Pokémon,poison,dark
+436,Bronzor,Bronze Pokémon,steel,psychic
+437,Bronzong,Bronze Bell Pokémon,steel,psychic
+438,Bonsly,Bonsai Pokémon,rock,none
+439,Mime Jr.,Mime Pokémon,psychic,fairy
+440,Happiny,Playhouse Pokémon,normal,none
+441,Chatot,Music Note Pokémon,normal,flying
+442,Spiritomb,Forbidden Pokémon,ghost,dark
+443,Gible,Land Shark Pokémon,dragon,ground
+444,Gabite,Cave Pokémon,dragon,ground
+445,Garchomp,Mach Pokémon,dragon,ground
+446,Munchlax,Big Eater Pokémon,normal,none
+447,Riolu,Emanation Pokémon,fighting,none
+448,Lucario,Aura Pokémon,fighting,steel
+449,Hippopotas,Hippo Pokémon,ground,none
+450,Hippowdon,Heavyweight Pokémon,ground,none
+451,Skorupi,Scorpion Pokémon,poison,bug
+452,Drapion,Ogre Scorp Pokémon,poison,dark
+453,Croagunk,Toxic Mouth Pokémon,poison,fighting
+454,Toxicroak,Toxic Mouth Pokémon,poison,fighting
+455,Carnivine,Bug Catcher Pokémon,grass,none
+456,Finneon,Wing Fish Pokémon,water,none
+457,Lumineon,Neon Pokémon,water,none
+458,Mantyke,Kite Pokémon,water,flying
+459,Snover,Frosted Tree Pokémon,grass,ice
+460,Abomasnow,Frosted Tree Pokémon,grass,ice
+461,Weavile,Sharp Claw Pokémon,dark,ice
+462,Magnezone,Magnet Area Pokémon,electric,steel
+463,Lickilicky,Licking Pokémon,normal,none
+464,Rhyperior,Drill Pokémon,ground,rock
+465,Tangrowth,Vine Pokémon,grass,none
+466,Electivire,Thunderbolt Pokémon,electric,none
+467,Magmortar,Blast Pokémon,fire,none
+468,Togekiss,Jubilee Pokémon,fairy,flying
+469,Yanmega,Ogre Darner Pokémon,bug,flying
+470,Leafeon,Verdant Pokémon,grass,none
+471,Glaceon,Fresh Snow Pokémon,ice,none
+472,Gliscor,Fang Scorp Pokémon,ground,flying
+473,Mamoswine,Twin Tusk Pokémon,ice,ground
+474,Porygon-Z,Virtual Pokémon,normal,none
+475,Gallade,Blade Pokémon,psychic,fighting
+476,Probopass,Compass Pokémon,rock,steel
+477,Dusknoir,Gripper Pokémon,ghost,none
+478,Froslass,Snow Land Pokémon,ice,ghost
+479,Rotom,Plasma Pokémon,electric,ghost
+480,Uxie,Knowledge Pokémon,psychic,none
+481,Mesprit,Emotion Pokémon,psychic,none
+482,Azelf,Willpower Pokémon,psychic,none
+483,Dialga,Temporal Pokémon,steel,dragon
+484,Palkia,Spatial Pokémon,water,dragon
+485,Heatran,Lava Dome Pokémon,fire,steel
+486,Regigigas,Colossal Pokémon,normal,none
+487,Giratina,Renegade Pokémon,ghost,dragon
+488,Cresselia,Lunar Pokémon,psychic,none
+489,Phione,Sea Drifter Pokémon,water,none
+490,Manaphy,Seafaring Pokémon,water,none
+491,Darkrai,Pitch-Black Pokémon,dark,none
+492,Shaymin,Gratitude Pokémon,grass,grass
+493,Arceus,Alpha Pokémon,normal,none
+494,Victini,Victory Pokémon,psychic,fire
+495,Snivy,Grass Snake Pokémon,grass,none
+496,Servine,Grass Snake Pokémon,grass,none
+497,Serperior,Regal Pokémon,grass,none
+498,Tepig,Fire Pig Pokémon,fire,none
+499,Pignite,Fire Pig Pokémon,fire,fighting
+500,Emboar,Mega Fire Pig Pokémon,fire,fighting
+501,Oshawott,Sea Otter Pokémon,water,none
+502,Dewott,Discipline Pokémon,water,none
+503,Samurott,Formidable Pokémon,water,none
+504,Patrat,Scout Pokémon,normal,none
+505,Watchog,Lookout Pokémon,normal,none
+506,Lillipup,Puppy Pokémon,normal,none
+507,Herdier,Loyal Dog Pokémon,normal,none
+508,Stoutland,Big-Hearted Pokémon,normal,none
+509,Purrloin,Devious Pokémon,dark,none
+510,Liepard,Cruel Pokémon,dark,none
+511,Pansage,Grass Monkey Pokémon,grass,none
+512,Simisage,Thorn Monkey Pokémon,grass,none
+513,Pansear,High Temp Pokémon,fire,none
+514,Simisear,Ember Pokémon,fire,none
+515,Panpour,Spray Pokémon,water,none
+516,Simipour,Geyser Pokémon,water,none
+517,Munna,Dream Eater Pokémon,psychic,none
+518,Musharna,Drowsing Pokémon,psychic,none
+519,Pidove,Tiny Pigeon Pokémon,normal,flying
+520,Tranquill,Wild Pigeon Pokémon,normal,flying
+521,Unfezant,Proud Pokémon,normal,flying
+522,Blitzle,Electrified Pokémon,electric,none
+523,Zebstrika,Thunderbolt Pokémon,electric,none
+524,Roggenrola,Mantle Pokémon,rock,none
+525,Boldore,Ore Pokémon,rock,none
+526,Gigalith,Compressed Pokémon,rock,none
+527,Woobat,Bat Pokémon,psychic,flying
+528,Swoobat,Courting Pokémon,psychic,flying
+529,Drilbur,Mole Pokémon,ground,none
+530,Excadrill,Subterrene Pokémon,ground,steel
+531,Audino,Hearing Pokémon,normal,none
+532,Timburr,Muscular Pokémon,fighting,none
+533,Gurdurr,Muscular Pokémon,fighting,none
+534,Conkeldurr,Muscular Pokémon,fighting,none
+535,Tympole,Tadpole Pokémon,water,none
+536,Palpitoad,Vibration Pokémon,water,ground
+537,Seismitoad,Vibration Pokémon,water,ground
+538,Throh,Judo Pokémon,fighting,none
+539,Sawk,Karate Pokémon,fighting,none
+540,Sewaddle,Sewing Pokémon,bug,grass
+541,Swadloon,Leaf-Wrapped Pokémon,bug,grass
+542,Leavanny,Nurturing Pokémon,bug,grass
+543,Venipede,Centipede Pokémon,bug,poison
+544,Whirlipede,Curlipede Pokémon,bug,poison
+545,Scolipede,Megapede Pokémon,bug,poison
+546,Cottonee,Cotton Puff Pokémon,grass,fairy
+547,Whimsicott,Windveiled Pokémon,grass,fairy
+548,Petilil,Bulb Pokémon,grass,none
+549,Lilligant,Flowering Pokémon,grass,none
+550,Basculin,Hostile Pokémon,water,none
+551,Sandile,Desert Croc Pokémon,ground,dark
+552,Krokorok,Desert Croc Pokémon,ground,dark
+553,Krookodile,Intimidation Pokémon,ground,dark
+554,Darumaka,Zen Charm Pokémon,fire,none
+555,Darmanitan,Blazing Pokémon,fire,fire
+556,Maractus,Cactus Pokémon,grass,none
+557,Dwebble,Rock Inn Pokémon,bug,rock
+558,Crustle,Stone Home Pokémon,bug,rock
+559,Scraggy,Shedding Pokémon,dark,fighting
+560,Scrafty,Hoodlum Pokémon,dark,fighting
+561,Sigilyph,Avianoid Pokémon,psychic,flying
+562,Yamask,Spirit Pokémon,ghost,none
+563,Cofagrigus,Coffin Pokémon,ghost,none
+564,Tirtouga,Prototurtle Pokémon,water,rock
+565,Carracosta,Prototurtle Pokémon,water,rock
+566,Archen,First Bird Pokémon,rock,flying
+567,Archeops,First Bird Pokémon,rock,flying
+568,Trubbish,Trash Bag Pokémon,poison,none
+569,Garbodor,Trash Heap Pokémon,poison,none
+570,Zorua,Tricky Fox Pokémon,dark,none
+571,Zoroark,Illusion Fox Pokémon,dark,none
+572,Minccino,Chinchilla Pokémon,normal,none
+573,Cinccino,Scarf Pokémon,normal,none
+574,Gothita,Fixation Pokémon,psychic,none
+575,Gothorita,Manipulate Pokémon,psychic,none
+576,Gothitelle,Astral Body Pokémon,psychic,none
+577,Solosis,Cell Pokémon,psychic,none
+578,Duosion,Mitosis Pokémon,psychic,none
+579,Reuniclus,Multiplying Pokémon,psychic,none
+580,Ducklett,Water Bird Pokémon,water,flying
+581,Swanna,White Bird Pokémon,water,flying
+582,Vanillite,Fresh Snow Pokémon,ice,none
+583,Vanillish,Icy Snow Pokémon,ice,none
+584,Vanilluxe,Snowstorm Pokémon,ice,none
+585,Deerling,Season Pokémon,normal,grass
+586,Sawsbuck,Season Pokémon,normal,grass
+587,Emolga,Sky Squirrel Pokémon,electric,flying
+588,Karrablast,Clamping Pokémon,bug,none
+589,Escavalier,Cavalry Pokémon,bug,steel
+590,Foongus,Mushroom Pokémon,grass,poison
+591,Amoonguss,Mushroom Pokémon,grass,poison
+592,Frillish,Floating Pokémon,water,ghost
+593,Jellicent,Floating Pokémon,water,ghost
+594,Alomomola,Caring Pokémon,water,none
+595,Joltik,Attaching Pokémon,bug,electric
+596,Galvantula,EleSpider Pokémon,bug,electric
+597,Ferroseed,Thorn Seed Pokémon,grass,steel
+598,Ferrothorn,Thorn Pod Pokémon,grass,steel
+599,Klink,Gear Pokémon,steel,none
+600,Klang,Gear Pokémon,steel,none
+601,Klinklang,Gear Pokémon,steel,none
+602,Tynamo,EleFish Pokémon,electric,none
+603,Eelektrik,EleFish Pokémon,electric,none
+604,Eelektross,EleFish Pokémon,electric,none
+605,Elgyem,Cerebral Pokémon,psychic,none
+606,Beheeyem,Cerebral Pokémon,psychic,none
+607,Litwick,Candle Pokémon,ghost,fire
+608,Lampent,Lamp Pokémon,ghost,fire
+609,Chandelure,Luring Pokémon,ghost,fire
+610,Axew,Tusk Pokémon,dragon,none
+611,Fraxure,Axe Jaw Pokémon,dragon,none
+612,Haxorus,Axe Jaw Pokémon,dragon,none
+613,Cubchoo,Chill Pokémon,ice,none
+614,Beartic,Freezing Pokémon,ice,none
+615,Cryogonal,Crystallizing Pokémon,ice,none
+616,Shelmet,Snail Pokémon,bug,none
+617,Accelgor,Shell Out Pokémon,bug,none
+618,Stunfisk,Trap Pokémon,ground,electric
+619,Mienfoo,Martial Arts Pokémon,fighting,none
+620,Mienshao,Martial Arts Pokémon,fighting,none
+621,Druddigon,Cave Pokémon,dragon,none
+622,Golett,Automaton Pokémon,ground,ghost
+623,Golurk,Automaton Pokémon,ground,ghost
+624,Pawniard,Sharp Blade Pokémon,dark,steel
+625,Bisharp,Sword Blade Pokémon,dark,steel
+626,Bouffalant,Bash Buffalo Pokémon,normal,none
+627,Rufflet,Eaglet Pokémon,normal,flying
+628,Braviary,Valiant Pokémon,normal,flying
+629,Vullaby,Diapered Pokémon,dark,flying
+630,Mandibuzz,Bone Vulture Pokémon,dark,flying
+631,Heatmor,Anteater Pokémon,fire,none
+632,Durant,Iron Ant Pokémon,bug,steel
+633,Deino,Irate Pokémon,dark,dragon
+634,Zweilous,Hostile Pokémon,dark,dragon
+635,Hydreigon,Brutal Pokémon,dark,dragon
+636,Larvesta,Torch Pokémon,bug,fire
+637,Volcarona,Sun Pokémon,bug,fire
+638,Cobalion,Iron Will Pokémon,steel,fighting
+639,Terrakion,Cavern Pokémon,rock,fighting
+640,Virizion,Grassland Pokémon,grass,fighting
+641,Tornadus,Cyclone Pokémon,flying,none
+642,Thundurus,Bolt Strike Pokémon,electric,flying
+643,Reshiram,Vast White Pokémon,dragon,fire
+644,Zekrom,Deep Black Pokémon,dragon,electric
+645,Landorus,Abundance Pokémon,ground,flying
+646,Kyurem,Boundary Pokémon,dragon,ice
+647,Keldeo,Colt Pokémon,water,fighting
+648,Meloetta,Melody Pokémon,normal,psychic
+649,Genesect,Paleozoic Pokémon,bug,steel
+650,Chespin,Spiky Nut Pokémon,grass,none
+651,Quilladin,Spiny Armor Pokémon,grass,none
+652,Chesnaught,Spiny Armor Pokémon,grass,fighting
+653,Fennekin,Fox Pokémon,fire,none
+654,Braixen,Fox Pokémon,fire,none
+655,Delphox,Fox Pokémon,fire,psychic
+656,Froakie,Bubble Frog Pokémon,water,none
+657,Frogadier,Bubble Frog Pokémon,water,none
+658,Greninja,Ninja Pokémon,water,dark
+659,Bunnelby,Digging Pokémon,normal,none
+660,Diggersby,Digging Pokémon,normal,ground
+661,Fletchling,Tiny Robin Pokémon,normal,flying
+662,Fletchinder,Ember Pokémon,fire,flying
+663,Talonflame,Scorching Pokémon,fire,flying
+664,Scatterbug,Scatterdust Pokémon,bug,none
+665,Spewpa,Scatterdust Pokémon,bug,none
+666,Vivillon,Scale Pokémon,bug,flying
+667,Litleo,Lion Cub Pokémon,fire,normal
+668,Pyroar,Royal Pokémon,fire,normal
+669,Flabébé,Single Bloom Pokémon,fairy,none
+670,Floette,Fairy Pokémon,fairy,none
+671,Florges,Garden Pokémon,fairy,none
+672,Skiddo,Mount Pokémon,grass,none
+673,Gogoat,Mount Pokémon,grass,none
+674,Pancham,Playful Pokémon,fighting,none
+675,Pangoro,Daunting Pokémon,fighting,dark
+676,Furfrou,Poodle Pokémon,normal,none
+677,Espurr,Restraint Pokémon,psychic,none
+678,Meowstic,Constraint Pokémon,psychic,none
+679,Honedge,Sword Pokémon,steel,ghost
+680,Doublade,Sword Pokémon,steel,ghost
+681,Aegislash,Royal Sword Pokémon,steel,ghost
+682,Spritzee,Perfume Pokémon,fairy,none
+683,Aromatisse,Fragrance Pokémon,fairy,none
+684,Swirlix,Cotton Candy Pokémon,fairy,none
+685,Slurpuff,Meringue Pokémon,fairy,none
+686,Inkay,Revolving Pokémon,dark,psychic
+687,Malamar,Overturning Pokémon,dark,psychic
+688,Binacle,Two-Handed Pokémon,rock,water
+689,Barbaracle,Collective Pokémon,rock,water
+690,Skrelp,Mock Kelp Pokémon,poison,water
+691,Dragalge,Mock Kelp Pokémon,poison,dragon
+692,Clauncher,Water Gun Pokémon,water,none
+693,Clawitzer,Howitzer Pokémon,water,none
+694,Helioptile,Generator Pokémon,electric,normal
+695,Heliolisk,Generator Pokémon,electric,normal
+696,Tyrunt,Royal Heir Pokémon,rock,dragon
+697,Tyrantrum,Despot Pokémon,rock,dragon
+698,Amaura,Tundra Pokémon,rock,ice
+699,Aurorus,Tundra Pokémon,rock,ice
+700,Sylveon,Intertwining Pokémon,fairy,none
+701,Hawlucha,Wrestling Pokémon,fighting,flying
+702,Dedenne,Antenna Pokémon,electric,fairy
+703,Carbink,Jewel Pokémon,rock,fairy
+704,Goomy,Soft Tissue Pokémon,dragon,none
+705,Sliggoo,Soft Tissue Pokémon,dragon,none
+706,Goodra,Dragon Pokémon,dragon,none
+707,Klefki,Key Ring Pokémon,steel,fairy
+708,Phantump,Stump Pokémon,ghost,grass
+709,Trevenant,Elder Tree Pokémon,ghost,grass
+710,Pumpkaboo,Pumpkin Pokémon,ghost,grass
+711,Gourgeist,Pumpkin Pokémon,ghost,grass
+712,Bergmite,Ice Chunk Pokémon,ice,none
+713,Avalugg,Iceberg Pokémon,ice,none
+714,Noibat,Sound Wave Pokémon,flying,dragon
+715,Noivern,Sound Wave Pokémon,flying,dragon
+716,Xerneas,Life Pokémon,fairy,none
+717,Yveltal,Destruction Pokémon,dark,flying
+718,Zygarde,Order Pokémon,dragon,ground
+719,Diancie,Jewel Pokémon,rock,fairy
+720,Hoopa,Mischief Pokémon (Confined)Djinn Pokémonn 
+(Unbound),psychic,ghost
+721,Volcanion,Steam Pokémon,fire,water
+722,Rowlet,Grass Quill Pokémon,grass,flying
+723,Dartrix,Blade Quill Pokémon,grass,flying
+724,Decidueye,Arrow Quill Pokémon,grass,ghost
+725,Litten,Fire Cat Pokémon,fire,none
+726,Torracat,Fire Cat Pokémon,fire,none
+727,Incineroar,Heel Pokémon,fire,dark
+728,Popplio,Sea Lion Pokémon,water,none
+729,Brionne,Pop Star Pokémon,water,none
+730,Primarina,Soloist Pokémon,water,fairy
+731,Pikipek,Woodpecker Pokémon,normal,flying
+732,Trumbeak,Bugle Beak Pokémon,normal,flying
+733,Toucannon,Cannon Pokémon,normal,flying
+734,Yungoos,Loitering Pokémon,normal,none
+735,Gumshoos,Stakeout Pokémon,normal,none
+736,Grubbin,Larva Pokémon,bug,none
+737,Charjabug,Battery Pokémon,bug,electric
+738,Vikavolt,Stag Beetle Pokémon,bug,electric
+739,Crabrawler,Boxing Pokémon,fighting,none
+740,Crabominable,Woolly Crab Pokémon,fighting,ice
+741,Oricorio,Dancing Pokémon,fire,flying
+742,Cutiefly,Bee Fly Pokémon,bug,fairy
+743,Ribombee,Bee Fly Pokémon,bug,fairy
+744,Rockruff,Puppy Pokémon,rock,none
+745,Lycanroc,Wolf Pokémon,rock,none
+746,Wishiwashi,Small Fry Pokémon,water,none
+747,Mareanie,Brutal Star Pokémon,poison,water
+748,Toxapex,Brutal Star Pokémon,poison,water
+749,Mudbray,Donkey Pokémon,ground,none
+750,Mudsdale,Draft Horse Pokémon,ground,none
+751,Dewpider,Water Bubble Pokémon,water,bug
+752,Araquanid,Water Bubble Pokémon,water,bug
+753,Fomantis,Sickle Grass Pokémon,grass,none
+754,Lurantis,Bloom Sickle Pokémon,grass,none
+755,Morelull,Illuminating Pokémon,grass,fairy
+756,Shiinotic,Illuminating Pokémon,grass,fairy
+757,Salandit,Toxic Lizard Pokémon,poison,fire
+758,Salazzle,Toxic Lizard Pokémon,poison,fire
+759,Stufful,Flailing Pokémon,normal,fighting
+760,Bewear,Strong Arm Pokémon,normal,fighting
+761,Bounsweet,Fruit Pokémon,grass,none
+762,Steenee,Fruit Pokémon,grass,none
+763,Tsareena,Fruit Pokémon,grass,none
+764,Comfey,Posy Picker Pokémon,fairy,none
+765,Oranguru,Sage Pokémon,normal,psychic
+766,Passimian,Teamwork Pokémon,fighting,none
+767,Wimpod,Turn Tail Pokémon,bug,water
+768,Golisopod,Hard Scale Pokémon,bug,water
+769,Sandygast,Sand Heap Pokémon,ghost,ground
+770,Palossand,Sand Castle Pokémon,ghost,ground
+771,Pyukumuku,Sea Cucumber Pokémon,water,none
+772,Type: Null,Synthetic Pokémon,normal,none
+773,Silvally,Synthetic Pokémon,normal,none
+774,Minior,Meteor Pokémon,rock,flying
+775,Komala,Drowsing Pokémon,normal,none
+776,Turtonator,Blast Turtle Pokémon,fire,dragon
+777,Togedemaru,Roly-Poly Pokémon,electric,steel
+778,Mimikyu,Disguise Pokémon,ghost,fairy
+779,Bruxish,Gnash Teeth Pokémon,water,psychic
+780,Drampa,Placid Pokémon,normal,dragon
+781,Dhelmise,Sea Creeper Pokémon,ghost,grass
+782,Jangmo-o,Scaly Pokémon,dragon,none
+783,Hakamo-o,Scaly Pokémon,dragon,fighting
+784,Kommo-o,Scaly Pokémon,dragon,fighting
+785,Tapu Koko,Land Spirit Pokémon,electric,fairy
+786,Tapu Lele,Land Spirit Pokémon,psychic,fairy
+787,Tapu Bulu,Land Spirit Pokémon,grass,fairy
+788,Tapu Fini,Land Spirit Pokémon,water,fairy
+789,Cosmog,Nebula Pokémon,psychic,none
+790,Cosmoem,Protostar Pokémon,psychic,none
+791,Solgaleo,Sunne Pokémon,psychic,steel
+792,Lunala,Moone Pokémon,psychic,ghost
+793,Nihilego,Parasite Pokémon,rock,poison
+794,Buzzwole,Swollen Pokémon,bug,fighting
+795,Pheromosa,Lissome Pokémon,bug,fighting
+796,Xurkitree,Glowing Pokémon,electric,none
+797,Celesteela,Launch Pokémon,steel,flying
+798,Kartana,Drawn Sword Pokémon,grass,steel
+799,Guzzlord,Junkivore Pokémon,dark,dragon
+800,Necrozma,Prism Pokémon,psychic,none
+801,Magearna,Artificial Pokémon,steel,fairy
